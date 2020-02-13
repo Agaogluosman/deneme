@@ -1,0 +1,24 @@
+{"yemekler":[
+	{
+	"yemek_id":1,
+	"yemek_adi":"Yemek adi 1",
+	"yemek_aciklama":"Tarifin detayı",
+	"yemek_tur":"",
+	"yemek_pisirme_suresi":"",
+	"yemek_hazirlama_suresi":"",
+	"yemek_kisi_sayisi":"",
+	"yemek_resim":"",
+	"yemek_malzemeler":"",
+	},
+	{
+	"yemek_id":2,
+	"yemek_adi":"Yemek adi 2",
+	"yemek_aciklama":"Tarifin detayı",
+	"yemek_tur":"",
+	"yemek_pisirme_suresi":"",
+	"yemek_hazirlama_suresi":"",
+	"yemek_kisi_sayisi":"",
+	"yemek_resim":"",
+	"yemek_malzemeler":"",
+	}
+]}
